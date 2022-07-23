@@ -1,0 +1,15 @@
+{
+    "name":              "exalu/empty",
+    "description":       "this is an empty package",
+    "minimum-stability": "stable",
+    "license":           "proprietary",
+    "authors":           [
+        {
+            "name":  "exalu - online solutions",
+            "email": "info@exalu.de"
+        }
+    ],
+    "require":           {
+
+    }
+}
